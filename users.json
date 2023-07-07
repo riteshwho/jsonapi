@@ -1,0 +1,12 @@
+{
+    "user1":{
+        "id": 1,
+        "revenue": 2129430,
+        "transaction": 1520,
+        "likes": 9721,
+        "users": 892,
+        "tees": 9,
+        "pant": 5,
+        "hoodies": 3
+    }
+}
